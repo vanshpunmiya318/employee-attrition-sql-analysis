@@ -1,5 +1,5 @@
--- Q1: Department Attrition Rate
--- Business Question: Which department has the highest employee attrition?
+Q1: Department Attrition Rate
+Business Question: Which department has the highest employee attrition?
 
 SELECT Department AS "Department",
        COUNT(*) AS "Total Employees",
