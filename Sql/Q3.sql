@@ -1,5 +1,5 @@
 Q3: Overtime, Work-Life Balance and Attrition
-Business Question: How does work-life balance relate to attrition across overtime groups?
+Business Question: How does attrition vary across different work-life balance levels within overtime groups?
 
 SELECT OverTime AS "Overtime",
        CASE
