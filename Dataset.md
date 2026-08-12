@@ -34,3 +34,7 @@ The analysis is descriptive and observational. The results identify patterns and
 Kaggle:
 
 [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+## Citation
+
+Pavan Subhash. *IBM HR Analytics Employee Attrition & Performance Dataset*. Kaggle. Available at: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
