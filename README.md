@@ -1,8 +1,3 @@
-Yes. I should have fixed it immediately.
-
-Here is the **actual raw Markdown**, with the `#`, `##`, `###`, backticks, tables, bullets, and fenced code blocks visible. **Copy everything inside this block directly into `README.md`.**
-
-````markdown
 # HR Analytics: Employee Attrition Analysis
 
 ## Project Overview
@@ -247,8 +242,5 @@ Finally, the comparison of high-risk employees who left versus those who stayed 
 
 Overall, the project demonstrates how SQL can be used to move from basic descriptive reporting toward structured employee-risk analysis while maintaining appropriate caution around causation, sample size, and interpretation.
 
-```
 
-**One important point:** the filenames in the `Project Structure` section are still assumed filenames. If your actual files have different names, change only that section. Everything else above is the finalized content we've settled on.
-```
 
