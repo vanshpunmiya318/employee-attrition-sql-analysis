@@ -203,7 +203,7 @@ For example, Q8 includes a supporting tenure-distribution analysis to confirm th
 - The analysis identifies observed relationships rather than forecasting which individual employees will leave.
 
 ## Project Structure
-
+```text
 HR-Analytics-Employee-Attrition/
 │
 ├── README.md
@@ -227,7 +227,7 @@ HR-Analytics-Employee-Attrition/
     ├── Q6.md
     ├── Q7.md
     └── Q8.md
-
+```
 Each SQL file contains the query used to answer the corresponding business question, while the results files document the output, methodology, and interpretation.
 
 ## Conclusion
