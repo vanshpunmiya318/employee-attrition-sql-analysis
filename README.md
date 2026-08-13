@@ -205,29 +205,29 @@ For example, Q8 includes a supporting tenure-distribution analysis to confirm th
 ```text
 HR-Analytics-Attrition/  
 │  
-├── [README.md](README.md)  
-├── [LICENSE](LICENSE)  
-├── [dataset.md](dataset.md)  
+├── README.md  
+├── LICENSE 
+├── Dataset.md  
 │  
 ├── sql/  
-│   ├── [Q1.sql](Sql/Q1.sql)  
-│   ├── [Q2.sql](sql/Q2.sql)  
-│   ├── [Q3.sql](sql/Q3.sql)  
-│   ├── [Q4.sql](sql/Q4.sql)  
-│   ├── [Q5.sql](sql/Q5.sql)  
-│   ├── [Q6.sql](sql/Q6.sql)  
-│   ├── [Q7.sql](sql/Q7.sql)  
-│   └── [Q8.sql](sql/Q8.sql)  
+│   ├── Q1.sql  
+│   ├── Q2.sql  
+│   ├── Q3.sql  
+│   ├── Q4.sql  
+│   ├── Q5.sql  
+│   ├── Q6.sql  
+│   ├── Q7.sql  
+│   └── Q8.sql  
 │  
 └── results/  
-    ├── [Q1.md](results/Q1.md)  
-    ├── [Q2.md](results/Q2.md)  
-    ├── [Q3.md](results/Q3.md)  
-    ├── [Q4.md](results/Q4.md)  
-    ├── [Q5.md](results/Q5.md)  
-    ├── [Q6.md](results/Q6.md)  
-    ├── [Q7.md](results/Q7.md)  
-    └── [Q8.md](results/Q8.md)
+    ├── Q1.md  
+    ├── Q2.md
+    ├── Q3.md  
+    ├── Q4.md 
+    ├── Q5.md 
+    ├── Q6.md 
+    ├── Q7.md  
+    └── Q8.md
 ```
 Each SQL file contains the query used to answer the corresponding business question, while the results files document the output, methodology, and interpretation.
 
