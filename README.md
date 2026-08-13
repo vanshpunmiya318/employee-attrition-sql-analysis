@@ -56,7 +56,6 @@ The dataset contains 1,470 employees.
 - Common Table Expressions (CTEs)
 - Window Functions
 - `NTILE()`
-- `UNPIVOT`
 - Conditional Aggregation
 - SQL Aggregations and Grouping
 
