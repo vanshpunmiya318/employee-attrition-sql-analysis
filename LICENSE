@@ -9,16 +9,13 @@ No license is granted to copy, modify, distribute, reproduce, publish, or
 reuse the original work in this repository without prior written permission
 from the copyright holder.
 
-The underlying IBM HR Analytics Employee Attrition & Performance dataset is
-not owned by the repository author and remains subject to its own licensing
-terms:
-
-- Database: Open Database License (ODbL)
-- Database Contents: Database Contents License (DbCL)
+The underlying IBM HR Analytics Employee Attrition & Performance dataset
+is not owned by the repository author and remains subject to the terms
+specified by its original dataset source.
 
 Original dataset source:
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
-The dataset's license does not grant permission to copy or reuse the original
-SQL analysis, documentation, or other original work contained in this
-repository.
+The dataset's source terms do not grant permission to copy or reuse the
+original SQL analysis, documentation, or other original work contained in
+this repository.
