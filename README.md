@@ -210,7 +210,7 @@ HR-Analytics-Attrition/
 ├── [dataset.md](dataset.md)  
 │  
 ├── sql/  
-│   ├── [Q1.sql](sql/Q1.sql)  
+│   ├── [Q1.sql](Sql/Q1.sql)  
 │   ├── [Q2.sql](sql/Q2.sql)  
 │   ├── [Q3.sql](sql/Q3.sql)  
 │   ├── [Q4.sql](sql/Q4.sql)  
